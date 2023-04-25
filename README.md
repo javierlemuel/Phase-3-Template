@@ -20,31 +20,49 @@ The students should adjust these to fit their convenience. Keep in mind any code
 The following functions are working in the template:
 
 Login (Database connection)
+
 Hash password (DB)
+
 View products (DB)
+
 Add products (DB)
+
 View orders (DB)
+
 Create Single Product Sales Report by Day, Week, or Month (DB) **
+
 View accounts (DB)
+
 Edit customer or admin account (DB)
+
 
 The following functions are to be worked on by the students:
 
+
 Edit products (DB)
+
 Edit orders (DB)
+
 Create All Products Sales Report by Day, Week, or Month (DB)
+
 Create Inventory/Stock Report by Day, Week, or Month (DB)
+
 Add customer or admin account (DB)
+
 View personal account (DB)
+
 Edit personal account (DB)
 
 
 ** Here are specific dates you can choose to see results:
 Day:
+
 2022-05-14 : Zino pro
 
 Week:
+
 2022-09 Days 12 to 18 (Week 37) : Bebop 2
 
 Month:
+
 2023-01 : Bebop 2
