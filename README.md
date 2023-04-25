@@ -18,7 +18,7 @@ pass1234
 The students should adjust these to fit their convenience. Keep in mind any code that might have to be altered when changing these.
 
 
-
+*****************************************************************************************************************************
 
 The following functions are working in the template:
 
@@ -38,7 +38,7 @@ View accounts (DB)
 
 Edit customer or admin account (DB)
 
-
+*****************************************************************************************************************************
 
 
 The following functions are to be worked on by the students:
@@ -58,8 +58,10 @@ View personal account (DB)
 
 Edit personal account (DB)
 
+******************************************************************************************************************************
 
 ** Here are specific dates you can choose to see results:
+
 Day:
 
 2022-05-14 : Zino pro
