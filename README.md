@@ -17,6 +17,9 @@ pass1234
 
 The students should adjust these to fit their convenience. Keep in mind any code that might have to be altered when changing these.
 
+
+
+
 The following functions are working in the template:
 
 Login (Database connection)
@@ -34,6 +37,8 @@ Create Single Product Sales Report by Day, Week, or Month (DB) **
 View accounts (DB)
 
 Edit customer or admin account (DB)
+
+
 
 
 The following functions are to be worked on by the students:
